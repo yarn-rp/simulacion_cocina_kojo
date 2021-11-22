@@ -51,3 +51,4 @@ Si no podemos seguir trabajando porque la tienda cerró y no hay más clientes e
 Como era de esperar, tener 1 trabajador extra ayuda a que los comensales disfruten sus platos más rápido. Aún asi, es cierto que la diferecia no es abismal teniendo en cueta que en la mayoría de las iteraciones ejecutadas, la diferecia era en promedio de un 10%.
 
 ## Link del codigo en github:
+**https://github.com/yarn-rp/simulacion_cocina_kojo**
